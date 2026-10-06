@@ -1,3 +1,7 @@
+> **资料已迁移**：[NUAA 课程笔记 · 信息安全数学基础](https://github.com/jaluova/nuaa-course-notes/tree/main/infosec-math)。
+>
+> 后续更新统一在新仓库维护。本仓库保留原资料与提交历史。
+
 # Mathematical Foundations of Information Security
 
 《信息安全数学基础》课程笔记与复习资料。
